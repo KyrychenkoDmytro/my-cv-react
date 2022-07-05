@@ -1,8 +1,10 @@
 import './Main.css';
 
-function Main () {
+function Main() {
     return (
-        <div className='Main'>Main</div>
+        <div className='Main'>
+
+        </div>
     )
 }
 

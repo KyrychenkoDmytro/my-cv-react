@@ -1,16 +1,19 @@
 import { useSelector } from 'react-redux';
+import './Social.css';
 
 function Social() {
     const data = useSelector(state => state.cv.data.social);
-    console.log(data);
+    
     return (
         <div className="Social">
-            <div><img src={data.img} alt="log"></img></div>
-            <div>{data.tel}</div>
-            <div>{data.gmail}</div>
-            <div>{data.skype}</div>
-            <div>{data.linkedin}</div>
-            <div>{data.github}</div>
+            <div><img className='logo' src={data.img} alt="logo"></img></div>
+            <div><a href="tel:+380679718191"><img className='icons' width="36px" src="./icons/tel.svg" alt="tel" /> {data.tel}</a></div>
+            <div><a href="mailto:khardy.official@gmail.com"><img className='icons' width="36px" src="./icons/mail.svg" alt="mail" /> {data.gmail}</a></div>
+            <div><a href="https://join.skype.com/invite/DRJld7GE4cBW"><img className='icons' width="36px" src="./icons/skype.svg" alt="skype" /> Kyrychenko Dmytro</a></div>
+            <div><a href="https://www.linkedin.com/in/dmytro-kyrychenko-b33b54243/"><img className='icons' width="36px" src="./icons/linkedin.svg" alt="linkedin" /> linkedin</a></div>
+            <div><a href="https://github.com/khardy-official"><img className='icons' width="36px" src="./icons/github.svg" alt="github" /> khardy-official</a></div>
+            <div><img className='icons' width="36px" src="./icons/location.svg" alt="location" /> {data.address}</div>
+            <hr />
         </div>
     )
 }

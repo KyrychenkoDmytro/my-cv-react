@@ -1,0 +1,7 @@
+.App .container {
+    display: flex;
+    max-width: 1200px;
+    margin: 0 auto;
+    border: 1px solid #4b4b4b;
+    box-shadow: 1px 1px 10px #000;
+  }

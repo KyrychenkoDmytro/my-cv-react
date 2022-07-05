@@ -1,10 +1,31 @@
 {
     "social": {
         "img": "https://cdn0.iconfinder.com/data/icons/avatar-2/500/beard-256.png",
-        "tel": "+38 067 9718191",
+        "tel": "+38(067) 971-81-91",
         "gmail": "khardy.official@gmail.com",
         "skype": "fsdfs",
         "linkedin": "lalala",
-        "github": "khardy-official"
+        "github": "khardy-official",
+        "address": "Kharkiv, Ukraine"
+    },
+    "skills": [
+        "HTML5/CSS3",
+        "BEM/Bootstrap",
+        "Responsive Design",
+        "SASS/SCSS",
+        "JS ES6/jQuery",
+        "React/Redux/Gulp",
+        "Git/GitHub/Heroku"
+    ],
+    "education": [
+       "2008-2014, The National Technical University \"Kharkiv Polytechnic Institute\", Master of Engineering"
+    ],
+    "projects" : {
+        "first":"https://github.com/khardy-official/first-project",
+        "polar":"https://github.com/khardy-official/first-project",
+        "dino": "https://github.com/khardy-official/Dino",
+        "goods":"https://github.com/khardy-official/goods-store-react",
+        "notes":"https://github.com/khardy-official/EcryptedNotes-react",
+        "cv": "https://github.com/khardy-official/CV"
     }
 }

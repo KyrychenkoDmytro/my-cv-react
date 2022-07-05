@@ -1,0 +1,15 @@
+.Social .icons {
+    position: relative;
+    top: 10px;
+}
+
+.Social .logo {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    border: 5px solid #dfe3e7;
+}
+
+.Social a {
+    line-height: 36px;
+}

@@ -6,11 +6,11 @@
     padding: 20px;
 }
 
-h2 {
+.Sidebar h2 {
     font-size: 26px;
     font-weight: 500;
 }
-a {
+.Sidebar a {
     color: #fff;
     text-decoration: none;
 }

@@ -1,6 +1,6 @@
 {
     "social": {
-        "img": "https://cdn0.iconfinder.com/data/icons/avatar-2/500/beard-256.png",
+        "img": "./main.jpg",
         "tel": "+38(067) 971-81-91",
         "gmail": "khardy.official@gmail.com",
         "skype": "fsdfs",
@@ -15,7 +15,8 @@
         "SASS/SCSS",
         "JS ES6/jQuery",
         "React/Redux/Gulp",
-        "Git/GitHub/Heroku"
+        "Git/GitHub/Heroku",
+        "English: Elemenary(A1/A2)"
     ],
     "education": [
        "2008-2014, The National Technical University \"Kharkiv Polytechnic Institute\", Master of Engineering"

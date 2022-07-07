@@ -1,0 +1,99 @@
+.Animation-logo:nth-child(1),
+.Animation-logo:nth-child(2),
+.Animation-logo:nth-child(3),
+.Animation-logo:nth-child(4),
+.Animation-logo:nth-child(5),
+.Animation-logo:nth-child(6),
+.Animation-logo:nth-child(7),
+.Animation-logo:nth-child(8) {
+  position: absolute;
+  z-index: -1;
+  display: block;
+  pointer-events: none;
+}
+
+.Animation-logo:nth-child(1) {
+  width: 100px;
+  height: 100px;
+  bottom: 100px;
+  left: -100px;
+  animation: Animation-logo-spin infinite 8s linear;
+}
+
+.Animation-logo:nth-child(2) {
+  width: 140px;
+  height: 140px;
+  top: 300px;
+  left: -120px;
+  animation: Animation-logo-spin infinite 6s linear;
+}
+
+.Animation-logo:nth-child(3) {
+  width: 180px;
+  height: 180px;
+  top: 450px;
+  left: -200px;
+  animation: Animation-logo-spin infinite 12s linear;
+}
+
+.Animation-logo:nth-child(4) {
+  width: 220px;
+  height: 220px;
+  bottom: -100px;
+  left: -180px;
+  animation: Animation-logo-spin infinite 10s linear;
+}
+
+.Animation-logo:nth-child(5) {
+  width: 100px;
+  height: 100px;
+  bottom: 400px;
+  right: -100px;
+  animation: Animation-logo-spin-reverse infinite 7s linear;
+}
+
+.Animation-logo:nth-child(6) {
+  width: 140px;
+  height: 140px;
+  top: 300px;
+  right: -120px;
+  animation: Animation-logo-spin-reverse infinite 5s linear;
+}
+
+.Animation-logo:nth-child(7) {
+  width: 180px;
+  height: 180px;
+  top: 100px;
+  right: -200px;
+  animation: Animation-logo-spin-reverse infinite 11s linear;
+}
+
+.Animation-logo:nth-child(8) {
+  width: 220px;
+  height: 220px;
+  top: -100px;
+  right: -180px;
+  animation: Animation-logo-spin-reverse infinite 9s linear;
+}
+
+
+@keyframes Animation-logo-spin {
+  from {
+    transform: translate3d(0, 0, 0) rotate(0deg);
+  }
+
+  to {
+    transform: translate3d(2200px, -400px, 0) rotate(1080deg);
+  }
+}
+
+
+@keyframes Animation-logo-spin-reverse {
+  from {
+    transform: translate3d(0, 0, 0) rotate(0deg);
+  }
+
+  to {
+    transform: translate3d(-2200px, 400px, 0) rotate(1080deg);
+  }
+}

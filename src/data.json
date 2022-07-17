@@ -3,30 +3,43 @@
         "img": "./main.jpg",
         "tel": "+38(067) 971-81-91",
         "gmail": "khardy.official@gmail.com",
-        "skype": "fsdfs",
-        "linkedin": "lalala",
+        "skype": "Kyrychenko Dmytro",
+        "linkedin": "linkedin",
         "github": "khardy-official",
         "address": "Kharkiv, Ukraine"
     },
     "skills": [
         "HTML5/CSS3",
+        "SASS/SCSS",
         "BEM/Bootstrap",
         "Responsive Design",
-        "SASS/SCSS",
-        "JS ES6/jQuery",
-        "React/Redux/Gulp",
+        "Webpack/Gulp",
+        "JS: ES5/ES6+/jQuery",
+        "React/Redux",
         "Git/GitHub/Heroku",
-        "English: Elemenary(A1/A2)"
+        "English: Intermediate"
     ],
     "education": [
-       "2008-2014, The National Technical University \"Kharkiv Polytechnic Institute\", Master of Engineering"
+        "2008-2014, The National Technical University \"Kharkiv Polytechnic Institute\", Master of Engineering"
     ],
-    "projects" : {
-        "first":"https://github.com/khardy-official/first-project",
-        "polar":"https://github.com/khardy-official/Polar-site",
-        "dino": "https://github.com/khardy-official/Dino",
-        "goods":"https://github.com/khardy-official/goods-store-react",
-        "notes":"https://github.com/khardy-official/EcryptedNotes-react",
-        "cv": "https://github.com/khardy-official/CV"
+    "profile": "Competent, friendly, purposeful and always striving for self-development. I am looking for a job where I could learn new technologies and strengthen existing ones. Each completed task motivates me more and more.",
+    "books": [
+        "Eloquent JavaScript, 3rd edition, Marijn Haverbeke",
+        "The Definitive Guide, 7th Edition, David Flanagan(O'Reilly)"
+    ],
+    "courses": [
+        "./courses/html.jpg",
+         "./courses/js.jpg",
+         "./courses/oop.jpg",
+         "./courses/array.jpg",
+         "./courses/react.jpg"
+    ],
+    "projects": {
+        "first": "https://github.com/khardy-official/first-loyaut-responsive",
+        "second": "https://github.com/khardy-official/second-loyaut-responsive",
+        "dino": "https://github.com/khardy-official/simple-mini-game",
+        "cart": "https://github.com/khardy-official/shopping-cart-react-redux",
+        "notes": "https://github.com/khardy-official/ecrypted-notes-react",
+        "cv": "https://github.com/khardy-official/my-cv-react-redux"
     }
 }

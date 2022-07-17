@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/CV/static/css/main.fc774baa.css",
-    "main.js": "/CV/static/js/main.47733351.js",
-    "index.html": "/CV/index.html",
-    "main.fc774baa.css.map": "/CV/static/css/main.fc774baa.css.map",
-    "main.47733351.js.map": "/CV/static/js/main.47733351.js.map"
+    "main.css": "/khardy-official/my-cv-react-redux/static/css/main.f7a0e7a4.css",
+    "main.js": "/khardy-official/my-cv-react-redux/static/js/main.90bc61f3.js",
+    "index.html": "/khardy-official/my-cv-react-redux/index.html",
+    "main.f7a0e7a4.css.map": "/khardy-official/my-cv-react-redux/static/css/main.f7a0e7a4.css.map",
+    "main.90bc61f3.js.map": "/khardy-official/my-cv-react-redux/static/js/main.90bc61f3.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc774baa.css",
-    "static/js/main.47733351.js"
+    "static/css/main.f7a0e7a4.css",
+    "static/js/main.90bc61f3.js"
   ]
 }

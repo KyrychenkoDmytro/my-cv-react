@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/my-cv-react-redux/static/css/main.f7a0e7a4.css",
-    "main.js": "/my-cv-react-redux/static/js/main.90bc61f3.js",
+    "main.css": "/my-cv-react-redux/static/css/main.65ff3745.css",
+    "main.js": "/my-cv-react-redux/static/js/main.b97411a3.js",
+    "static/media/pets-paw_logo.svg": "/my-cv-react-redux/static/media/pets-paw_logo.e26524a0636bda2cddef.svg",
+    "static/media/pulse.svg": "/my-cv-react-redux/static/media/pulse.84660909e7aa827137c4.svg",
     "index.html": "/my-cv-react-redux/index.html",
-    "main.f7a0e7a4.css.map": "/my-cv-react-redux/static/css/main.f7a0e7a4.css.map",
-    "main.90bc61f3.js.map": "/my-cv-react-redux/static/js/main.90bc61f3.js.map"
+    "main.65ff3745.css.map": "/my-cv-react-redux/static/css/main.65ff3745.css.map",
+    "main.b97411a3.js.map": "/my-cv-react-redux/static/js/main.b97411a3.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7a0e7a4.css",
-    "static/js/main.90bc61f3.js"
+    "static/css/main.65ff3745.css",
+    "static/js/main.b97411a3.js"
   ]
 }

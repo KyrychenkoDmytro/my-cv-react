@@ -13,10 +13,11 @@
         "SASS/SCSS",
         "BEM/Bootstrap",
         "Responsive Design",
-        "Webpack/Gulp",
-        "JS: ES5/ES6+/jQuery",
-        "React/Redux",
-        "Git/GitHub/Heroku",
+        "REST",
+        "ES5/ES6+",
+        "React",
+        "Redux Toolkit",
+        "Git/GitHub",
         "English: Intermediate"
     ],
     "education": [
@@ -40,6 +41,7 @@
         "dino": "https://github.com/khardy-official/simple-mini-game",
         "cart": "https://github.com/khardy-official/shopping-cart-react-redux",
         "notes": "https://github.com/khardy-official/ecrypted-notes-react",
-        "cv": "https://github.com/khardy-official/my-cv-react-redux"
+        "cv": "https://github.com/khardy-official/my-cv-react-redux",
+        "pets": "https://github.com/khardy-official/pets-paw"
     }
 }

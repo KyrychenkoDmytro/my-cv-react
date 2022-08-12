@@ -6,7 +6,7 @@ function Social() {
     
     return (
         <div className="Social">
-            <div><img className='main' width="264px"  src={data.img} alt="main"></img></div>
+            <div><img className='main' src={data.img} alt="main"></img></div>
             <div><a href="tel:+380679718191"><img className='icons' width="36px" src="./icons/tel.svg" alt="tel" /> {data.tel}</a></div>
             <div><a href="mailto:khardy.official@gmail.com"><img className='icons' width="36px" src="./icons/mail.svg" alt="mail" /> {data.gmail}</a></div>
             <div><a href="https://join.skype.com/invite/DRJld7GE4cBW"><img className='icons' width="36px" src="./icons/skype.svg" alt="skype" /> {data.skype}</a></div>

@@ -5,8 +5,10 @@
 
 .Social .main {
     display: block;
+    width: 280px;
+    height: auto;
     margin: 0 auto;
-    border-radius: 50%;
+    border-radius: 5%;
     border: 4px solid #dfe3e7;
 }
 

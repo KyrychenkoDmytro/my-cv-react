@@ -18,7 +18,6 @@
 
 .Main h2 {
     text-align: center;
-    overflow: hidden;
     font-size: 24px;
     font-weight: 500;
 }
@@ -38,4 +37,26 @@
     color: #4b4b4b;
     text-decoration: none;
     font-style: italic;
+}
+
+.Main .pets-paw a::before{
+    display: block;
+    content: url(../../../public/icons/pets-paw_logo.svg);
+}
+
+.Main .ecrypted-notes a::before{
+    content: url(../../../public/icons/notes.png);
+    display: inline-block;
+    position: relative;
+    top: 8px;
+    right: 5px;
+}
+
+.Main .pulse a::before {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    position: relative;
+    top: 8px;
+    content: url(../../../public/icons/pulse.svg);
 }

@@ -32,24 +32,24 @@
   width: 180px;
   height: 180px;
   top: 450px;
-  left: -200px;
+  left: -180px;
   animation: Animation-logo-spin infinite 12s linear;
 }
 
 .Animation-logo:nth-child(4) {
   width: 220px;
   height: 220px;
-  bottom: -100px;
+  bottom: 200px;
   left: -180px;
   animation: Animation-logo-spin infinite 10s linear;
 }
 
 .Animation-logo:nth-child(5) {
-  width: 100px;
-  height: 100px;
-  bottom: 400px;
-  right: -100px;
-  animation: Animation-logo-spin-reverse infinite 7s linear;
+  width: 220px;
+  height: 220px;
+  top: -100px;
+  right: -180px;
+  animation: Animation-logo-spin-reverse infinite 10s linear;
 }
 
 .Animation-logo:nth-child(6) {
@@ -57,7 +57,7 @@
   height: 140px;
   top: 300px;
   right: -120px;
-  animation: Animation-logo-spin-reverse infinite 5s linear;
+  animation: Animation-logo-spin-reverse infinite 6s linear;
 }
 
 .Animation-logo:nth-child(7) {
@@ -65,17 +65,16 @@
   height: 180px;
   top: 100px;
   right: -200px;
-  animation: Animation-logo-spin-reverse infinite 11s linear;
+  animation: Animation-logo-spin-reverse infinite 12s linear;
 }
 
 .Animation-logo:nth-child(8) {
-  width: 220px;
-  height: 220px;
-  top: -100px;
-  right: -180px;
-  animation: Animation-logo-spin-reverse infinite 9s linear;
+  width: 100px;
+  height: 100px;
+  top: 100px;
+  right: -100px;
+  animation: Animation-logo-spin-reverse infinite 8s linear;
 }
-
 
 @keyframes Animation-logo-spin {
   from {
@@ -83,7 +82,7 @@
   }
 
   to {
-    transform: translate3d(2200px, -400px, 0) rotate(1080deg);
+    transform: translate3d(2500px, -400px, 0) rotate(1080deg);
   }
 }
 
@@ -94,6 +93,6 @@
   }
 
   to {
-    transform: translate3d(-2200px, 400px, 0) rotate(1080deg);
+    transform: translate3d(-2500px, 400px, 0) rotate(1080deg);
   }
 }

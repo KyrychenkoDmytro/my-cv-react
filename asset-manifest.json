@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/my-cv-react-redux/static/css/main.65ff3745.css",
-    "main.js": "/my-cv-react-redux/static/js/main.b97411a3.js",
-    "static/media/pets-paw_logo.svg": "/my-cv-react-redux/static/media/pets-paw_logo.e26524a0636bda2cddef.svg",
-    "static/media/pulse.svg": "/my-cv-react-redux/static/media/pulse.84660909e7aa827137c4.svg",
-    "index.html": "/my-cv-react-redux/index.html",
-    "main.65ff3745.css.map": "/my-cv-react-redux/static/css/main.65ff3745.css.map",
-    "main.b97411a3.js.map": "/my-cv-react-redux/static/js/main.b97411a3.js.map"
+    "main.css": "/my-cv-react/static/css/main.01e426e8.css",
+    "main.js": "/my-cv-react/static/js/main.c6f33c8a.js",
+    "static/media/pets-paw_logo.svg": "/my-cv-react/static/media/pets-paw_logo.e26524a0636bda2cddef.svg",
+    "static/media/pulse.svg": "/my-cv-react/static/media/pulse.84660909e7aa827137c4.svg",
+    "index.html": "/my-cv-react/index.html",
+    "static/media/chat.svg": "/my-cv-react/static/media/chat.3c3adf3f02ebcabe9ed7.svg",
+    "main.01e426e8.css.map": "/my-cv-react/static/css/main.01e426e8.css.map",
+    "main.c6f33c8a.js.map": "/my-cv-react/static/js/main.c6f33c8a.js.map"
   },
   "entrypoints": [
-    "static/css/main.65ff3745.css",
-    "static/js/main.b97411a3.js"
+    "static/css/main.01e426e8.css",
+    "static/js/main.c6f33c8a.js"
   ]
 }

@@ -37,8 +37,8 @@
          "./courses/react.jpg"
     ],
     "projects": {
-        "first": "https://github.com/khardy-official/first-loyaut-responsive",
-        "pets": "https://github.com/khardy-official/pets-paw-react",
+        "first": "https://khardy-official.github.io/first-loyaut-responsive/",
+        "pets": "https://khardy-official.github.io/pets-paw-react/",
         "chat": "https://khardy-official.github.io/chat-react/"
     }
 }

@@ -29,7 +29,7 @@ function Main() {
                     </ul>
                 </div>
                 <div className='pulse'>
-                    <h2><a href={projects.second}>Pulse</a></h2>
+                    <h2><a href={projects.first}>Pulse</a></h2>
                     <ul>
                         <li>Project description: Responsive website design.</li>
                         <li>Technology stack: Photoshop, Zeplin, Scss, BEM, jQuery, gulp.</li>

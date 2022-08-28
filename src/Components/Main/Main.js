@@ -17,15 +17,15 @@ function Main() {
                 <div className="pets-paw">
                     <h2><a href={projects.pets}> </a></h2>
                     <ul>
-                        <li>Project description: A project based on a test task in Figma. Interaction with the API is carried out using REST.</li>
-                        <li>Technology stack: React, Redux Toolkit, Scss, Axios, Figma. </li>
+                        <li>Project description: Cat gallery app.</li>
+                        <li>Technology stack: React, Redux Toolkit,Rest API, Scss, Axios, Figma. </li>
                     </ul>
                 </div>
-                <div className='ecrypted-notes'>
-                    <h2><a href={projects.notes}>Encrypted notes</a></h2>
+                <div className='chat'>
+                    <h2><a href={projects.chat}>Chat</a></h2>
                     <ul>
-                        <li>Project description: Encrypted messaging app. Node.js interacts with the MySQL database through the sequenceize module.</li>
-                        <li>Technology stack: Node.js, MySQL, React, Redux Toolkit, React-Bootstrap.</li>
+                        <li>Project description: Chat app with automatically generated response.</li>
+                        <li>Technology stack: React, Redux Toolkit,Rest API, Scss, Axios, Local Storage</li>
                     </ul>
                 </div>
                 <div className='pulse'>

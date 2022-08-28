@@ -18,6 +18,7 @@
         "React",
         "Redux Toolkit",
         "Git/GitHub",
+        "Figma",
         "English: Intermediate"
     ],
     "education": [
@@ -37,11 +38,7 @@
     ],
     "projects": {
         "first": "https://github.com/khardy-official/first-loyaut-responsive",
-        "second": "https://github.com/khardy-official/second-loyaut-responsive",
-        "dino": "https://github.com/khardy-official/simple-mini-game",
-        "cart": "https://github.com/khardy-official/shopping-cart-react-redux",
-        "notes": "https://github.com/khardy-official/ecrypted-notes-react",
-        "cv": "https://github.com/khardy-official/my-cv-react-redux",
-        "pets": "https://github.com/khardy-official/pets-paw"
+        "pets": "https://github.com/khardy-official/pets-paw-react",
+        "chat": "https://khardy-official.github.io/chat-react/"
     }
 }

@@ -44,9 +44,11 @@
     content: url(../../../public/icons/pets-paw_logo.svg);
 }
 
-.Main .ecrypted-notes a::before{
-    content: url(../../../public/icons/notes.png);
+.Main .chat a::before{
+    content: url(../../../public/icons/chat.svg);
     display: inline-block;
+    width: 28px;
+    height: 28px;
     position: relative;
     top: 8px;
     right: 5px;

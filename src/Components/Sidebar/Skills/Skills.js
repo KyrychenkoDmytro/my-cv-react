@@ -11,6 +11,7 @@ function Skills() {
             </ul>
             <h2>Education</h2>
             <div>{education}</div>
+            
         </div>
     )
 }

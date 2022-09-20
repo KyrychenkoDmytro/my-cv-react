@@ -15,20 +15,22 @@
         "Responsive Design",
         "REST",
         "ES5/ES6+",
+        "TypeScript",
         "React",
         "Redux Toolkit",
-        "Git/GitHub",
+        "Git",
+        "GitHub",
         "Figma",
         "English: Intermediate"
     ],
     "education": [
         "2008-2014, The National Technical University \"Kharkiv Polytechnic Institute\", Master of Engineering"
     ],
-    "profile": "Competent, friendly, purposeful and always striving for self-development. I am looking for a job where I could learn new technologies and strengthen existing ones. Each completed task motivates me more and more.",
     "books": [
         "Eloquent JavaScript, 3rd edition, Marijn Haverbeke",
         "The Definitive Guide, 7th Edition, David Flanagan(O'Reilly)"
     ],
+    "profile": "Competent, friendly, purposeful and always striving for self-development. I am looking for a job where I could learn new technologies and strengthen existing ones. Each completed task motivates me more and more.",
     "courses": [
         "./courses/html.jpg",
          "./courses/js.jpg",
@@ -39,6 +41,7 @@
     "projects": {
         "first": "https://khardy-official.github.io/first-loyaut-responsive/",
         "pets": "https://khardy-official.github.io/pets-paw-react/",
-        "chat": "https://khardy-official.github.io/chat-react/"
+        "chat": "https://khardy-official.github.io/chat-react/",
+        "pizza": "https://khardy-official.github.io/pizza-react/"
     }
 }

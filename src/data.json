@@ -15,6 +15,7 @@
         "Responsive Design",
         "REST",
         "ES5/ES6+",
+        "PHP",
         "TypeScript",
         "React",
         "Redux Toolkit",
@@ -33,10 +34,12 @@
     "profile": "Competent, friendly, purposeful and always striving for self-development. I am looking for a job where I could learn new technologies and strengthen existing ones. Each completed task motivates me more and more.",
     "courses": [
         "./courses/html.jpg",
-         "./courses/js.jpg",
-         "./courses/oop.jpg",
-         "./courses/array.jpg",
-         "./courses/react.jpg"
+        "./courses/js.jpg",
+        "./courses/oop.jpg",
+        "./courses/array.jpg",
+        "./courses/react.jpg",
+        "./courses/php.jpg",
+        "./courses/epam.jpg"
     ],
     "projects": {
         "first": "https://khardy-official.github.io/first-loyaut-responsive/",

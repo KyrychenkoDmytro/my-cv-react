@@ -4,7 +4,6 @@ import { useSelector } from 'react-redux';
 function Main() {
     const projects = useSelector(state => state.cv.data.projects);
     const profile = useSelector(state => state.cv.data.profile);
-    const books = useSelector(state => state.cv.data.books);
 
     const courses = useSelector(state => state.cv.data.courses);
     return (
@@ -36,23 +35,12 @@ function Main() {
                         <li>Technology stack: React, Redux Toolkit,Rest API, Scss, Axios, Local Storage</li>
                     </ul>
                 </div>
-                {/* <div className='pulse'>
-                    <h2><a href={projects.first}>Pulse</a></h2>
-                    <ul>
-                        <li>Project description: Responsive website design.</li>
-                        <li>Technology stack: Photoshop, Zeplin, Scss, BEM, jQuery, gulp.</li>
-                    </ul>
-                </div> */}
             </div>
             <h3>Courses</h3>
-            <div style={{ display: "flex", justifyContent: "space-around", flexWrap: "wrap" }}>
-                {courses.map(item => <img style={{ display: "block", width: "148px", marginTop: "5px" }} src={item} alt="logo" key={item}></img>)}
-            </div>
-            <h3>Books</h3>
-            <div>
-                <ul>
-                    {books.map(item => <li key={item}>{item}</li>)}
-                </ul>
+            <div style={{ display: "flex", justifyContent: "space-evenly", flexWrap: "wrap", gap: "20px" }}>
+                {courses.map(item => <div style={{ display: "block", flex: "0 1 240px", marginTop: "5px" }} key={item}><img src={item} alt="logo" 
+                style={{ display: "block", width: "100%", height: "auto"}}
+                ></img></div>)}
             </div>
         </div>
     )

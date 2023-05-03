@@ -39,7 +39,8 @@
         "./courses/array.jpg",
         "./courses/react.jpg",
         "./courses/php.jpg",
-        "./courses/epam.jpg"
+        "./courses/epam.jpg",
+        "./courses/sigma.jpg"
     ],
     "projects": {
         "first": "https://khardy-official.github.io/first-loyaut-responsive/",

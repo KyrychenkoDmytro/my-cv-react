@@ -2,8 +2,9 @@
     "social": {
         "img": "./main.jpg",
         "tel": "+38(067) 971-81-91",
+        "telegram": "@khardy209",
         "gmail": "khardy.official@gmail.com",
-        "skype": "Kyrychenko Dmytro",
+        "skype": "Dmytro Kyrychenko",
         "linkedin": "linkedin",
         "github": "khardy-official",
         "address": "Kharkiv, Ukraine"
@@ -22,7 +23,7 @@
         "Redux Toolkit",
         "Node JS",
         "Express",
-        "MongoDB, MySQL",
+        "MongoDB, PostgreSQL, MySQL",
         "Git",
         "GitHub",
         "Figma",
@@ -35,7 +36,7 @@
         "Eloquent JavaScript, 3rd edition, Marijn Haverbeke",
         "The Definitive Guide, 7th Edition, David Flanagan(O'Reilly)"
     ],
-    "profile": "I am a frontend developer who has been learning frontend for over 2 years. My technology stack includes React, TypeScript, Node, Redux, MongoDB, MySQL, and many others. I am looking for a job where I can improve my skills, become part of a friendly team, work on an interesting project and solve emerging problems together.",
+    "profile": "I am a dedicated Front-end/Full stack Trainee Developer who is proficient in JavaScript, React, TypeScript, NodeJS, Redux, as well as databases such as MongoDB, PostgreSQL and MySQL. I have a strong passion for continuous growth, constantly striving to stay at the forefront of the latest trends and best practices.",
     "courses": [
         "./courses/html.jpg",
         "./courses/js.jpg",
@@ -47,6 +48,8 @@
         "./courses/sigma.jpg"
     ],
     "projects": {
+        "snake": "https://snake-front-six.vercel.app/",
+        "delivery": "https://delivery-front-rho.vercel.app/",
         "first": "https://khardy-official.github.io/first-loyaut-responsive/",
         "pets": "https://khardy-official.github.io/pets-paw-react/",
         "chat": "https://khardy-official.github.io/chat-react/",

@@ -72,3 +72,23 @@
     right: 5px;
     content: url(../../../public/icons/pizza.svg);
 }
+
+.Main .delivery a::before {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    position: relative;
+    top: 8px;
+    right: 5px;
+    content: url(../../../public/icons/delivery.svg);
+}
+
+.Main .snake a::before {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    position: relative;
+    top: 8px;
+    right: 5px;
+    content: url(../../../public/icons/snake.svg);
+}

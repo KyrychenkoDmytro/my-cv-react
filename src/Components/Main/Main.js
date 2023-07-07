@@ -18,7 +18,7 @@ function Main() {
                     <h2><a href={projects.organick} target="_blank" rel="noreferrer">Organick</a></h2>
                     <ul>
                         <li>Project description: Organic is a grocery e-commerce website where you can order a variety of fresh products to suit every taste.</li>
-                        <li>Technology stack: (MERN - PostgreSQL, Express, React, Node), Responsive design, Redux Toolkit, Rest API, Scss, Axios, Figma</li>
+                        <li>Technology stack: (MERN - MongoDB, Express, React, Node), Responsive design, Redux Toolkit, Rest API, Scss, Axios, Figma</li>
                     </ul>
                 </div>
                 <div className="snake">

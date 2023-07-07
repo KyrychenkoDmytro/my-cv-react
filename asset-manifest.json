@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/my-cv-react/static/css/main.529b72d6.css",
-    "main.js": "/my-cv-react/static/js/main.01303c7d.js",
+    "main.css": "/my-cv-react/static/css/main.87583500.css",
+    "main.js": "/my-cv-react/static/js/main.54d8339a.js",
     "static/media/delivery.svg": "/my-cv-react/static/media/delivery.e37db7b05d7029254e23.svg",
     "static/media/pets-paw_logo.svg": "/my-cv-react/static/media/pets-paw_logo.e26524a0636bda2cddef.svg",
     "static/media/pizza.svg": "/my-cv-react/static/media/pizza.4c8de6c864bb983b0ef9.svg",
+    "static/media/organick.svg": "/my-cv-react/static/media/organick.e02c111dc6654ec0fe5a.svg",
     "static/media/pulse.svg": "/my-cv-react/static/media/pulse.84660909e7aa827137c4.svg",
     "static/media/snake.svg": "/my-cv-react/static/media/snake.bac3958bd34acd2ac4ed.svg",
     "index.html": "/my-cv-react/index.html",
     "static/media/chat.svg": "/my-cv-react/static/media/chat.3c3adf3f02ebcabe9ed7.svg",
-    "main.529b72d6.css.map": "/my-cv-react/static/css/main.529b72d6.css.map",
-    "main.01303c7d.js.map": "/my-cv-react/static/js/main.01303c7d.js.map"
+    "main.87583500.css.map": "/my-cv-react/static/css/main.87583500.css.map",
+    "main.54d8339a.js.map": "/my-cv-react/static/js/main.54d8339a.js.map"
   },
   "entrypoints": [
-    "static/css/main.529b72d6.css",
-    "static/js/main.01303c7d.js"
+    "static/css/main.87583500.css",
+    "static/js/main.54d8339a.js"
   ]
 }

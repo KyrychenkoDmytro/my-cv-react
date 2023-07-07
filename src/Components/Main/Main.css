@@ -92,3 +92,13 @@
     right: 5px;
     content: url(../../../public/icons/snake.svg);
 }
+
+.Main .organick a::before {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    position: relative;
+    top: 8px;
+    right: 5px;
+    content: url(../../../public/icons/organick.svg);
+}

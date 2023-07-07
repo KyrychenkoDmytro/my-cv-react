@@ -48,6 +48,7 @@
         "./courses/sigma.jpg"
     ],
     "projects": {
+        "organick": "https://sigma-final-front.vercel.app/",
         "snake": "https://snake-front-six.vercel.app/",
         "delivery": "https://delivery-front-rho.vercel.app/",
         "first": "https://khardy-official.github.io/first-loyaut-responsive/",

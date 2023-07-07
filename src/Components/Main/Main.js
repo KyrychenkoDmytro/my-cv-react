@@ -9,7 +9,7 @@ function Main() {
     return (
         <div className='Main'>
             <h1>Dmytro <span>Kyrychenko</span></h1>
-            <h2>Front-end (<span>React</span>) / Full Stack Developer  (<span>NodeJS</span>)</h2>
+            <h2>Full Stack Developer  (<span>React / NodeJS</span>)</h2>
             <h3>Profile</h3>
             <p>{profile}</p>
             <h3>Projects</h3>

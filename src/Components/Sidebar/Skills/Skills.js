@@ -1,7 +1,7 @@
 import { useSelector } from 'react-redux';
 
 function Skills() {
-    const {skills, education, books, certificateLinks} = useSelector(state => state.cv.data)
+    const {skills, education, certificateLinks} = useSelector(state => state.cv.data)
     return (
         <div className="Skills">
             <h2>Skills</h2>
@@ -16,12 +16,6 @@ function Skills() {
                 <li key={item}><a href={certificateLinks[item]} target="_blank" rel="noreferrer">{item}</a></li>
             ))}
             </ul>
-            {/* <h2>Books</h2>
-            <div>
-                <ul>
-                    {books.map(item => <li style={{ marginBottom: "20px" }} key={item}>{item}</li>)}
-                </ul>
-            </div> */}
         </div>
     )
 }

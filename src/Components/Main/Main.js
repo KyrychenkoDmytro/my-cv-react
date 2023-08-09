@@ -43,13 +43,13 @@ function Main() {
                         <li>Technology stack: MERN - MongoDB, Express, React, Node. </li>
                     </ul>
                 </div>
-                <div className="snake">
+                {/* <div className="snake">
                     <h2><a href={projects.snake} target="_blank" rel="noreferrer">Snake</a></h2>
                     <ul>
                         <li>Project description: The Snake Game includes storing the best result in the database.</li>
                         <li>Technology stack: PERN - PostgreSQL, Express, React, Node.</li>
                     </ul>
-                </div>
+                </div> */}
                 <div className="organick">
                     <h2><a href={projects.organick} target="_blank" rel="noreferrer">Organick</a></h2>
                     <ul>

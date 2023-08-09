@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/github.io/my-cv-react/static/css/main.e3f6b036.css",
-    "main.js": "/github.io/my-cv-react/static/js/main.a6d2d693.js",
+    "main.js": "/github.io/my-cv-react/static/js/main.09e7706d.js",
     "static/media/delivery.svg": "/github.io/my-cv-react/static/media/delivery.e37db7b05d7029254e23.svg",
     "static/media/pets-paw_logo.svg": "/github.io/my-cv-react/static/media/pets-paw_logo.e26524a0636bda2cddef.svg",
     "static/media/pizza.svg": "/github.io/my-cv-react/static/media/pizza.4c8de6c864bb983b0ef9.svg",
@@ -11,10 +11,10 @@
     "index.html": "/github.io/my-cv-react/index.html",
     "static/media/chat.svg": "/github.io/my-cv-react/static/media/chat.3c3adf3f02ebcabe9ed7.svg",
     "main.e3f6b036.css.map": "/github.io/my-cv-react/static/css/main.e3f6b036.css.map",
-    "main.a6d2d693.js.map": "/github.io/my-cv-react/static/js/main.a6d2d693.js.map"
+    "main.09e7706d.js.map": "/github.io/my-cv-react/static/js/main.09e7706d.js.map"
   },
   "entrypoints": [
     "static/css/main.e3f6b036.css",
-    "static/js/main.a6d2d693.js"
+    "static/js/main.09e7706d.js"
   ]
 }

@@ -3,40 +3,46 @@
         "img": "./main.jpg",
         "tel": "+38(067) 971-81-91",
         "telegram": "@khardy209",
-        "gmail": "khardy.official@gmail.com",
+        "gmail": "kyrychenko.dmytro.v@gmail.com",
         "skype": "Dmytro Kyrychenko",
-        "linkedin": "linkedin",
-        "github": "khardy-official",
+        "linkedin": "Linkedin",
+        "github": "KyrychenkoDmytro",
         "address": "Kharkiv, Ukraine"
     },
     "skills": [
-        "HTML5/CSS3",
-        "SASS/SCSS",
+        "HTML5, CSS3",
+        "SASS, SCSS",
         "BEM",
-        "Bootstrap",
+        "Bootstrap, Tailwind",
         "Responsive Design",
-        "REST",
-        "ES5/ES6+",
-        "PHP",
+        "JavaScript",
         "TypeScript",
         "React",
         "Redux Toolkit",
-        "Node JS",
+        "NodeJS",
+        "REST",
         "Express",
         "MongoDB, PostgreSQL, MySQL",
+        "PHP",
         "Git",
-        "GitHub",
-        "Figma",
+        "GitHub, GitLab",
+        "Figma, Photoshop",
         "English: Intermediate"
     ],
     "education": [
         "2008-2014, The National Technical University \"Kharkiv Polytechnic Institute\", Master of Engineering"
     ],
-    "books": [
-        "Eloquent JavaScript, 3rd edition, Marijn Haverbeke",
-        "The Definitive Guide, 7th Edition, David Flanagan(O'Reilly)"
-    ],
-    "profile": "I am a dedicated Full Stack Trainee Developer who is proficient in JavaScript, React, TypeScript, NodeJS, Redux, as well as databases such as MongoDB, PostgreSQL and MySQL. I have a strong passion for continuous growth, constantly striving to stay at the forefront of the latest trends and best practices.",
+    "certificateLinks": {
+        "HTML":"https://www.itgid.info/ru/certificate/view?Certificate[uid]=777cunvnt7",
+        "JS":"https://www.itgid.info/ru/certificate/view?Certificate[uid]=tmqtbwkk4eh1",
+        "OOP":"https://www.itgid.info/ru/certificate/view?Certificate[uid]=sukaew8tup5j",
+        "Array":"https://www.itgid.info/ru/certificate/view?Certificate[uid]=d6ykksqz5he9",
+        "ReactJS":"https://www.itgid.info/ru/certificate/view?Certificate[uid]=d183tpepaymf",
+        "PHP":"https://www.itgid.info/ru/certificate/view?Certificate[uid]=usz975skej1r",
+        "Epam":"https://drive.google.com/file/d/1wsNjb0qUm__jOCwlSj-Aeskw_GyvyHMu/view?usp=drive_link",
+        "Sigma":"https://drive.google.com/file/d/1zH8RnUm7yXjsBgAqgacYX1E8XskyIb_7/view?usp=drive_link"
+    },
+    "profile": "I am a dedicated Full-stack Trainee Developer who is proficient in JavaScript, React, TypeScript, NodeJS, Redux, as well as databases such as MongoDB, PostgreSQL and MySQL. I have a strong passion for continuous growth, constantly striving to stay at the forefront of the latest trends and best practices.",
     "courses": [
         "./courses/html.jpg",
         "./courses/js.jpg",
@@ -51,9 +57,9 @@
         "organick": "https://sigma-final-front.vercel.app/",
         "snake": "https://snake-front-six.vercel.app/",
         "delivery": "https://delivery-front-rho.vercel.app/",
-        "first": "https://khardy-official.github.io/first-loyaut-responsive/",
-        "pets": "https://khardy-official.github.io/pets-paw-react/",
-        "chat": "https://khardy-official.github.io/chat-react/",
-        "pizza": "https://khardy-official.github.io/pizza-react/"
+        "first": "https://KyrychenkoDmytro.github.io/first-loyaut-responsive/",
+        "pets": "https://KyrychenkoDmytro.github.io/pets-paw-react/",
+        "chat": "https://KyrychenkoDmytro.github.io/chat-react/",
+        "pizza": "https://KyrychenkoDmytro.github.io/pizza-react/"
     }
 }
